@@ -1,0 +1,11 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.Rhistory
+.RData
+.env
+.env.*
+!.env.example
